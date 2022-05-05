@@ -1,0 +1,15 @@
+﻿.vs/
+Library/
+Logs/
+Build/
+obj/
+Temp/
+*.sln
+*.csproj
+*.user
+FMOD/.*
+!FMOD/Build/
+fmod_editor.log
+Assets/Plugins/FMOD/Cache
+Assets/Plugins/FMOD/Cache.meta
+.vsconfig
